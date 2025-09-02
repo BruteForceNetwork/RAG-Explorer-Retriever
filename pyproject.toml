@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "rag-simple"
+version = "0.1.1"
+description = "RAG Explorer Retriever"
+authors = ["Brilian Pracoyo Adi"]
+readme = "README.md"
+packages = [{include = "RAG_explorer_retriever"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.3.27"
+streamlit = "^1.35.0"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.3.29"
+langchain-openai = "^0.3.32"
+dotenv = "^0.9.9"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
