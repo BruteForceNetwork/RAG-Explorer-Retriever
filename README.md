@@ -8,10 +8,11 @@ This repository demonstrates **Retrieval-Augmented Generation (RAG)** with two k
 3. Retrieve live and up-to-date information from Wikipedia.  
 4. Retrieve focused insights about RAG from the research paper.  
 
-![Image 1](image-1.png)
+![RAG Paper](RAG-Paper.png)
 
-![Image 2](image.png)
+![RAG Wiki](Rag-Wiki.png)
 
+![RAG Wiki](RAG-Modules.JPG)
 
 ## Setup
 
